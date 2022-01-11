@@ -1,0 +1,8 @@
+main: com.fireflyest.storage.EssentialStorage
+name: EssentialStorage
+version: 1.0-SNAPSHOT
+description: 基础插件存储部分
+api-version: 1.13
+authors: [Fireflyest]
+website: www.spigotmc.org
+depend: [Essential]
